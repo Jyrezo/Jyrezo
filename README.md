@@ -11,3 +11,7 @@ Github Stats:
 [![Jimmys's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodedJimmy&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedJimmy&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<script>
+  alert("hello")
+</script>
