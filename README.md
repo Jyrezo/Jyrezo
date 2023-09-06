@@ -1,4 +1,4 @@
-Hello, I'm CodedJimmy I'm a Full Stack developer who focuses on the Roblox Platform.
+Hello, I'm Jyrezo I'm a Full Stack developer who focuses on the Roblox Platform.
 
 I also own and operate the T:Riza Corporation.
 
