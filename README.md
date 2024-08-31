@@ -1,6 +1,6 @@
 Hello, I'm Jyrezo I'm a Full Stack developer who focuses on the Roblox Platform.
 
-I also own and operate the T:Riza Corporation.
+I also own and operate T:Riza Software.
 
 Discord Account:
 
