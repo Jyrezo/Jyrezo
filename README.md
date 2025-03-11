@@ -1,6 +1,10 @@
-# Welcome
+# 🎉 Welcome
 
 Hello, my name is Jyrezo (or Jimmy), and welcome to my GitHub profile! I'm a full-stack software engineer who's very experienced in multiple programming languages (Lua/Luau, Rust, Java/Kotlin, JavaScript/TypeScript, Python)! I'm also very experienced when it comes to developing web applications, and software in general.
+
+## Wanna know more about me? 
+
+Feel free to check out [my website](https://jyrezo.com) to get a list of my qualifications, and positions held!
 
 # Wanna get in touch?
 
